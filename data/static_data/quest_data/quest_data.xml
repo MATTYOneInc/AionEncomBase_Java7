@@ -6529,6 +6529,7 @@
       <selectable_reward_item item_id="169000003" count="200" />
       <reward_item item_id="160003501" count="4" />
     </rewards>
+	<quest_kill npc_ids="210389 210655" seq="0"/>
   </quest>
   <quest id="2118" name="Up to no Good" nameId="1103218" minlevel_permitted="5" max_repeat_count="1" cannot_share="true" race_permitted="ASMODIANS" category="QUEST">
     <collect_items>

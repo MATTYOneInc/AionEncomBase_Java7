@@ -58,7 +58,7 @@
 	</monster_hunt>
 	<!-- Food Bandits (Asmodian Only) -->
 	<monster_hunt id="2117" start_npc_ids="203540">
-		<monster npc_ids="210389" var="0" end_var="9"/>
+		<monster npc_ids="210389 210655" var="0" end_var="9"/>
 	</monster_hunt>
 	<!-- Suspicious Activity (Asmodian Only) -->
 	<monster_hunt id="2129" start_npc_ids="203552" end_npc_ids="203516">
